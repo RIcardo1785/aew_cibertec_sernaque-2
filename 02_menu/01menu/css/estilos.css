@@ -26,27 +26,11 @@ nav {
     background-color: #FFB000;
 }
 
-.submenu-catalogo {
+.submenu-catalago{
     position: absolute;
     list-style: none;
     width: 200px;
-    background-color: #994D1C;
+    background-color: aquamarine;
     display: none;
+    }
 }
-
-.menu-horizontal li:hover .submenu-catalogo {
-    display: block;
-}
-
-.submenu-catalogo > li > a {
-    display: block;
-    color: rgb(155, 95, 5);
-    text-decoration: none;
-    padding: 15px;
-}
-
-.submenu-catalogo > li:hover {
-    background-color: #FFF9BF;
-}    
-
-
