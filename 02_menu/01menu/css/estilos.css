@@ -1,6 +1,10 @@
 body {
     background-image: url(../imagen/394726.jpg) ;
 }
+H1{font-size:60px
+}
+    
+
 nav {
     max-width: 900px;
     margin: auto;
