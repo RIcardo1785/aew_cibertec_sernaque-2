@@ -31,6 +31,19 @@ nav {
     list-style: none;
     width: 200px;
     background-color: aquamarine;
+    text-decoration: none;
     display: none;
+    
     }
+.menu-horizontal li:hover .submenu-catalago {
+    display: block;}
+
+.submenu-catalago > li > a {
+    display: block;
+    color: rgb(69, 14, 197);
+    text-decoration: none;
+    padding: 15px;
+}
+.submenu-catalago > li:hover {
+    background-color: aliceblue;
 }
